@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @R
 › Base Ori @DikaArdnt
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['60182460371','60182460371','60182460371'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['60182460371'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '60182460371' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ucuk //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ucuk-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ucuk' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -37,12 +37,12 @@ global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.email = 'rotikeju118@gmail.com'
+global.region = 'malaysia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© ucuk-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'ucuk' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -57,8 +57,8 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.thumb = fs.readFileSync('./image/ucuk.jpg')
+/*global.veloriy = fs.readFileSync('./image/ucuk.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
